@@ -1,0 +1,6 @@
+**/logs/
+**/drafts/
+**/large_tool_results/
+**/notes/
+**/validation_report.md
+.DS_Store
